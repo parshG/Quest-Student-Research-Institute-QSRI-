@@ -1,0 +1,1 @@
+Developed a C++ program to calculate the Correlation Coefficient, analyzing the effectiveness of COVID-19 vaccines based on ICU patient data. Used our results to create a presentation and presented our research at the annual symposium
